@@ -2,6 +2,7 @@
     "name": "blast-project/bundle-skeleton",
     "type": "symfony-bundle",
     "description": "Acme example bundle for Blast.",
+    "minimum-stability": "stable",
     "require": {
         "php": "^5.6 || ^7.0",
         "symfony/symfony": "3.2.*",
