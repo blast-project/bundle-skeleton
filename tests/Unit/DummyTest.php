@@ -7,7 +7,9 @@
  */
 namespace Blast\AcmeBundle\Tests\Unit;
 
-class DummyTest extends \PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class DummyTest extends TestCase
 {
 
     public function setUp()
