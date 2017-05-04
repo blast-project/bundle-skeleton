@@ -4,14 +4,14 @@
     "description": "Acme example bundle for Blast.",
     "minimum-stability": "stable",
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": ">=5.6",
         "symfony/symfony": "3.2.*",
-        "blast-project/core-bundle": "dev-master"
+        "blast-project/core-bundle": "^0.4"
     },
     "require-dev": {
         "matthiasnoback/symfony-dependency-injection-test": "^0.1 || ^1.0",
         "sllh/php-cs-fixer-styleci-bridge": "^2.0",
-        "symfony/phpunit-bridge": "^2.7 || ^3.0"
+        "symfony/phpunit-bridge": "3.2.*"
     },
     "license": "GPL-3.0",
     "keywords": [],
