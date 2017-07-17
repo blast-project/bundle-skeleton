@@ -1,25 +1,27 @@
 <?php
+
 /*
  * This file is part of the Blast Project package.
  *
- * For the full copyright and license information, please view the LICENSE
+ * Copyright (C) 2015-2017 Libre Informatique
+ *
+ * This file is licenced under the GNU LGPL v3.
+ * For the full copyright and license information, please view the LICENSE.md
  * file that was distributed with this source code.
  */
+
 namespace Blast\AcmeBundle\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 
 class DummyTest extends TestCase
 {
-
     public function setUp()
     {
-        
     }
 
     public function tearDown()
     {
-        
     }
 
     public function testNothing()
