@@ -1,9 +1,20 @@
 # Change Log
 
-## [0.4.3](https://github.com/blast-project/bundle-skeleton/tree/0.4.3) (2017-06-13)
-[Full Changelog](https://github.com/blast-project/bundle-skeleton/compare/0.4.4...0.4.3)
+## [0.4.5](https://github.com/blast-project/bundle-skeleton/tree/0.4.5) (2017-07-26)
+[Full Changelog](https://github.com/blast-project/bundle-skeleton/compare/0.4.4...0.4.5)
 
-## [0.4.4](https://github.com/blast-project/bundle-skeleton/tree/0.4.4) (2017-06-13)
+**Merged pull requests:**
+
+- DevKit updates for bundle-skeleton [\#11](https://github.com/blast-project/bundle-skeleton/pull/11) ([BlastCI](https://github.com/BlastCI))
+- DevKit updates for bundle-skeleton [\#9](https://github.com/blast-project/bundle-skeleton/pull/9) ([BlastCI](https://github.com/BlastCI))
+- DevKit updates for bundle-skeleton [\#8](https://github.com/blast-project/bundle-skeleton/pull/8) ([BlastCI](https://github.com/BlastCI))
+- DevKit updates for bundle-skeleton [\#7](https://github.com/blast-project/bundle-skeleton/pull/7) ([BlastCI](https://github.com/BlastCI))
+- DevKit updates for bundle-skeleton [\#6](https://github.com/blast-project/bundle-skeleton/pull/6) ([BlastCI](https://github.com/BlastCI))
+
+## [0.4.4](https://github.com/blast-project/bundle-skeleton/tree/0.4.4) (2017-06-27)
+[Full Changelog](https://github.com/blast-project/bundle-skeleton/compare/0.4.3...0.4.4)
+
+## [0.4.3](https://github.com/blast-project/bundle-skeleton/tree/0.4.3) (2017-06-13)
 **Merged pull requests:**
 
 - DevKit updates for bundle-skeleton [\#5](https://github.com/blast-project/bundle-skeleton/pull/5) ([BlastCI](https://github.com/BlastCI))
