@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.5.1](https://github.com/blast-project/bundle-skeleton/tree/0.5.1) (2017-08-04)
+## [0.5.1](https://github.com/blast-project/bundle-skeleton/tree/0.5.1) (2017-09-15)
 [Full Changelog](https://github.com/blast-project/bundle-skeleton/compare/0.4.5...0.5.1)
 
 ## [0.4.5](https://github.com/blast-project/bundle-skeleton/tree/0.4.5) (2017-07-26)
