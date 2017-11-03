@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/blast-project/bundle-skeleton/tree/HEAD)
-
-[Full Changelog](https://github.com/blast-project/bundle-skeleton/compare/0.5.3...HEAD)
+## [0.6.4](https://github.com/blast-project/bundle-skeleton/tree/0.6.4) (2017-11-03)
+[Full Changelog](https://github.com/blast-project/bundle-skeleton/compare/0.5.3...0.6.4)
 
 **Merged pull requests:**
 
